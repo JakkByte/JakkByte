@@ -1,3 +1,5 @@
+![JakkByte Banner](banner.png)
+
 # 🐺 JakkByte
 
 ### Indie Software Developer
