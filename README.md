@@ -12,7 +12,7 @@ My goal is to build useful applications, explore new ideas, and continuously imp
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### 🖱️ AutoClick AC
 
@@ -30,18 +30,41 @@ A free, lightweight, and open-source autoclicker for Windows.
 
 ---
 
+### 🎵 Video to MP3
+
+A free, lightweight, and open-source video-to-MP3 converter for Windows.
+
+**Features:**
+- Convert video files into MP3 audio
+- Batch conversion of multiple videos
+- Support for MP4, MKV, AVI, MOV, WEBM, and more
+- Five available languages
+- Background conversion with progress tracking
+- Prevents overwriting existing MP3 files
+- Modern dark interface
+- No Python installation required
+
+**[View Project](https://github.com/JakkByte/Video-to-MP3)** · **[Download for Windows](https://github.com/JakkByte/Video-to-MP3/releases/latest)**
+
+---
+
 ## 🛠️ Technologies
 
 - Python
+- Tkinter / GUI Development
 - Windows Desktop Applications
-- GUI Development
 - Software Automation
+- FFmpeg Integration
+- PyInstaller
 
 ---
 
 ## 📂 Projects
 
-AutoClick AC is my first publicly released application.
+JakkByte currently has two publicly released Windows applications:
+
+- **AutoClick AC** — A customizable autoclicker designed for simplicity and efficiency.
+- **Video to MP3** — An easy-to-use desktop tool for extracting MP3 audio from video files.
 
 More projects are planned as I continue learning, building, and experimenting with new ideas.
 
@@ -53,4 +76,4 @@ For questions, suggestions, or bug reports, feel free to reach out through my [G
 
 ---
 
-**JakkByte — One byte at a time.**
+**JakkByte — One byte at a time.** 🐺
